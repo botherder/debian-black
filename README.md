@@ -1,2 +1,2 @@
 # debian-black
-Black Debian SLiM login manager.
+Black Debian SLiM login manager theme.
